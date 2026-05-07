@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Logo Barbearia Fiais</title>
+  <desc id="desc">Marca azul e dourada da Barbearia Fiais.</desc>
+  <rect width="1080" height="1080" fill="#082338"/>
+  <g fill="none" stroke="#d0a35f" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M157 268c139-79 623-79 766 0"/>
+    <path d="M276 764 420 678l120 90 120-90 144 86"/>
+    <path d="M245 814c80-64 147-99 204-104"/>
+    <path d="M835 814c-80-64-147-99-204-104"/>
+    <path d="M504 722c-20-14-21-37-4-52"/>
+    <path d="M576 722c20-14 21-37 4-52"/>
+  </g>
+  <path
+    d="M445 296c30-28 64-43 95-43s65 15 95 43c-29 20-61 30-95 30s-66-10-95-30Z"
+    fill="#d0a35f"
+  />
+  <text
+    x="540"
+    y="500"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="155"
+    font-weight="800"
+    letter-spacing="10"
+    fill="#d0a35f"
+    stroke="#041827"
+    stroke-width="7"
+    paint-order="stroke"
+  >
+    BARBEARIA
+  </text>
+  <text
+    x="540"
+    y="650"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="150"
+    font-weight="800"
+    letter-spacing="26"
+    fill="#d0a35f"
+    stroke="#041827"
+    stroke-width="7"
+    paint-order="stroke"
+  >
+    FIAIS
+  </text>
+</svg>
